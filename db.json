@@ -1,0 +1,81 @@
+{
+    "users":[
+        {
+          "id": 1,
+          "name": "Fauzan Ramdani Ferdiansyah",
+          "alamat": "Patrol Sari",
+          "umur": 23,
+          "nohp": "082118148299"
+        },
+        {
+          "id": 2,
+          "name": "Fauzan Ramdani Ferdiansyah",
+          "alamat": "Patrol Sari",
+          "umur": 23,
+          "nohp": "082118148299"
+        },
+        {
+          "id": 3,
+          "name": "Fauzan Ramdani Ferdiansyah",
+          "alamat": "Patrol Sari",
+          "umur": 23,
+          "nohp": "082118148299"
+        },
+        {
+          "id": 4,
+          "name": "Fauzan Ramdani Ferdiansyah",
+          "alamat": "Patrol Sari",
+          "umur": 23,
+          "nohp": "082118148299"
+        },
+        {
+          "id": 5,
+          "name": "Fauzan Ramdani Ferdiansyah",
+          "alamat": "Patrol Sari",
+          "umur": 23,
+          "nohp": "082118148299"
+        },
+        {
+          "id": 6,
+          "name": "Fauzan Ramdani Ferdiansyah",
+          "alamat": "Patrol Sari",
+          "umur": 23,
+          "nohp": "082118148299"
+        },
+        {
+          "id": 7,
+          "name": "Fauzan Ramdani Ferdiansyah",
+          "alamat": "Patrol Sari",
+          "umur": 23,
+          "nohp": "082118148299"
+        },
+        {
+          "id": 8,
+          "name": "Fauzan Ramdani Ferdiansyah",
+          "alamat": "Patrol Sari",
+          "umur": 23,
+          "nohp": "082118148299"
+        },
+        {
+          "id": 9,
+          "name": "Fauzan Ramdani Ferdiansyah",
+          "alamat": "Patrol Sari",
+          "umur": 23,
+          "nohp": "082118148299"
+        },
+        {
+          "id": 10,
+          "name": "Fauzan Ramdani Ferdiansyah",
+          "alamat": "Patrol Sari",
+          "umur": 23,
+          "nohp": "082118148299"
+        },
+        {
+          "id": 11,
+          "name": "Fauzan Ramdani Ferdiansyah",
+          "alamat": "Patrol Sari",
+          "umur": 23,
+          "nohp": "082118148299"
+        }
+      ]
+}
